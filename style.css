@@ -45,6 +45,18 @@ button {
     transition: background 0.3s;
 }
 
+.selected {
+    background-color: #d1ecf1;
+    border-color: #0c5460;
+    font-weight: bold;
+}
+
+.item-listado {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    margin: 5px 0;
+}
+
 #list-container {
     margin-top: 15px;
 }
