@@ -4,7 +4,7 @@
 
 Repositorio del proyecto web Nº2 de Programación 3.
 
-## Estructurización
+## Estructuración
 
 El proyecto consiste en 3 .HTML integrados en una sola pagina Web. A su vez, se le agregaron funciones de JavaScript para un funcionamiento mas fluido.
 
